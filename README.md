@@ -1,6 +1,6 @@
 # Hoo_Bank_App
 hoo_bank_app
-#Install 
+# Install 
 npm install 
 # Run
 npm run dev
